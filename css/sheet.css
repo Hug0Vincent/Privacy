@@ -11,8 +11,10 @@
 }
 
 .full{
-  height: 100vh;
+  min-height: 100vh;
 }
+
+
 
 .first-section{
   height: 100vh;
@@ -132,8 +134,17 @@ article{
   position: absolute;
   left: 50%;
   transform: translate(-50%, 0);
+
   
 }
+
+.arrow2{
+  margin-top: 60px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  height: 3rem;
+}
+
 
 .relative{
   position: relative;
